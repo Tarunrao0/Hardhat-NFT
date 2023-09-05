@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@aave/protocol-v2": "^1.0.1",
-    "@chainlink/contracts": "^0.5.1",
+    "@chainlink/contracts": "^0.6.1",
     "@ethersproject/bignumber": "^5.5.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.4",
     "@openzeppelin/contracts": "^4.5.0",
